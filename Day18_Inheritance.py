@@ -113,7 +113,7 @@ class Courses(student,Teacher):
 obj_courses = Courses()
 obj_courses.subject()
 obj_courses.teaching()
-obj_courses.study()
+()
 obj_courses.display()
 
 obj_student = student()
